@@ -20,14 +20,14 @@
             "Specular Shader",
             "Texture"      
 
-             "24": {
+             "24":{
       "name": "Boeing 757-300",
       "liveries": [
         {
           "name": "Standard livery",
           "texture": [
-"",
-"https://i.ibb.co/PpkmQr5/IMG-2382.jpg"
+"https://raw.githubusercontent.com/AirplanesAviation2361/Desert-falcon-airlines/refs/heads/main/DFA%20B757-300",
+"https://i.ibb.co/v4YCWqX3/IMG-2384.jpg"
 ],
  
           "credits": "AirplanesAviation2361"
@@ -36,3 +36,20 @@
         "labels": [
             "Specular Shader",
             "Texture"    
+
+            "24":{
+      "name": "Airbus A330-900neo",
+      "liveries": [
+        {
+          "name": "Standard livery",
+          "texture": [
+"https://raw.githubusercontent.com/AirplanesAviation2361/Desert-falcon-airlines/refs/heads/main/DFA%20B757-300",
+"https://i.ibb.co/v4YCWqX3/IMG-2384.jpg"
+],
+ 
+          "credits": "AirplanesAviation2361"
+        }
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"  
