@@ -1,5 +1,5 @@
 
-name": "Desert falcon airlines",
+"name": "Desert falcon airlines",
   "color": "#E4921F",
   "bgcolor": "#FFFFFF",
   "aircrafts": {
@@ -9,8 +9,8 @@ name": "Desert falcon airlines",
         {
           "name": "Standard livery",
           "texture": [
-"https://raw.githubusercontent.com/AirplanesAviation2361/Fly-Pakistan-/refs/heads/main/Texture",
-"https://i.ibb.co/PZCLMHvX/B777.jpg"
+"https://raw.githubusercontent.com/AirplanesAviation2361/Desert-falcon-airlines/refs/heads/main/DFA%20A321neo",
+"https://i.ibb.co/PpkmQr5/IMG-2382.jpg"
 ],
  
           "credits": "AirplanesAviation2361"
@@ -19,3 +19,20 @@ name": "Desert falcon airlines",
         "labels": [
             "Specular Shader",
             "Texture"      
+
+             "24": {
+      "name": "Boeing 757-300",
+      "liveries": [
+        {
+          "name": "Standard livery",
+          "texture": [
+"",
+"https://i.ibb.co/PpkmQr5/IMG-2382.jpg"
+],
+ 
+          "credits": "AirplanesAviation2361"
+        }
+      ],
+        "labels": [
+            "Specular Shader",
+            "Texture"    
