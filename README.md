@@ -30,8 +30,8 @@ The current Desert Falcon Airways fleet includes:
 The Desert Falcon Airways liveries will now appear in the aircraft livery list.
 
 # Repository Contents
-	•	airline.json – Airline configuration for the GeoFS Livery Selector
-	•	textures/ – Aircraft livery textures used in the pack
+•	airline.json – Airline configuration for the GeoFS Livery Selector
+•	textures/ – Aircraft livery textures used in the pack
 
 # Creator
 
